@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudoshift&show_icons=true&locale=en" alt="sudoshift" /></p>
+<p>[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sudoshift?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)</p>
 ### I'm Adriano J.
 
 
