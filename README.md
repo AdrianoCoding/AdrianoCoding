@@ -1,4 +1,4 @@
-<p>[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sudoshift?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)</p>
+<p>&nbsp;<img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/sudoshift?cardType=github&theme=github-dark&preferLogin=false" alt="sudoshift" /></p>
 ### I'm Adriano J.
 
 
