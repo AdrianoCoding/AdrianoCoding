@@ -11,7 +11,7 @@ Hi world 👋🌎
 
 Estudando no **Curso em Video**<br/>
 <p align="left">
-Eu sou desenvolvo em _python_
+Eu sou desenvolvo em *python*
 </p>  
 
 </p>
