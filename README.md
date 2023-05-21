@@ -8,8 +8,8 @@ Hi world 👋🌎
 <img src="https://img.shields.io/static/v1?label=Overview&message=SudoShift&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
+The world is [...]
 
-Estudando no **Curso em Video**<br/>
 <p align="left">
 Eu sou desenvolvo em python
 </p>  
