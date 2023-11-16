@@ -9,8 +9,6 @@ Seja Bem-vindo ao meu perfil! 😄
 - 👨🏽‍💻 Freelancer - Construção de sites e aplicações web.
 - 🔭 Explorando tecnologias como Python, Telegram API, ssh.
 - 🎓 Atualmente, estou buscando conhecimento por conta própria, além de estar matriculado na Cubos Academy.
-- [Meu portfólio](Seu link aqui)
-- [LinkedIn](Seu link aqui)
 - 📫 E-mail: addrianojr@email.com
 
 <div style="display: inline_block">
@@ -31,7 +29,14 @@ Seja Bem-vindo ao meu perfil! 😄
 ## Contato
 <div>
   <a href = "https://api.whatsapp.com/send?phone=5581996474210&text=Oi!%20Encontrei%20seu%20n%C3%BAmero%20no%20WhatsApp%20atrav%C3%A9s%20do%20seu%20perfil%20no%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <!--<a href = "Seu link aqui"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/juniortalking/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://twitter.com/seu_usuario_aqui" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+
+
   <a href="Seu link aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 </div></br>
 
