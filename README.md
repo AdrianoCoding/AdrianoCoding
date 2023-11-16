@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0E384&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C757D&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0E384&size=38&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Adriano+J%C3%BAnior!;Transformo+ideias+em+solu%C3%A7%C3%B5es+digitais;Exploro+tecnologias+para+criar+o+futuro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6C757D&size=38&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Adriano+J%C3%BAnior!;Transformo+ideias+em+solu%C3%A7%C3%B5es+digitais;Exploro+tecnologias+para+criar+o+futuro)](https://git.io/typing-svg)
 
 ## Olá! Prazer, Adriano Júnior! 👋
 
@@ -44,8 +44,8 @@ Seja Bem-vindo ao meu perfil! 😄
 <!-- Certifique-se de alterar os links dos seus perfis -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudoshift&show_icons=true&count_private=true&hide_border=true&title_color=A0E384&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Adriano Júnior github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoshift&layout=compact&hide_border=true&title_color=A0E384&text_color=ff91a4&bg_color=0d1117"/>              
+  <img src="https://github-readme-stats.vercel.app/api?username=sudoshift&show_icons=true&count_private=true&hide_border=true&title_color=6C757D&icon_color=6C757D&text_color=6C757D&bg_color=0d1117" alt="Adriano Júnior github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoshift&layout=compact&hide_border=true&title_color=6C757D&text_color=6C757D&bg_color=0d1117"/>              
 </p></br>
 
 <!-- Troféus GitHub -->
@@ -56,7 +56,7 @@ Seja Bem-vindo ao meu perfil! 😄
 
 <!-- Gráfico de atividade do GitHub -->
 <!-- Troque 'seu_usuario' pelo seu nome de usuário do GitHub -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudoshift&bg_color=0d1117&color=A0E384&line=ff9494&point=A0E384&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudoshift&bg_color=0d1117&color=6C757D&line=6C757D&point=6C757D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <br><p align="centre"><b>Contador de visitas</b></p>  
@@ -64,4 +64,4 @@ Seja Bem-vindo ao meu perfil! 😄
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0E384&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C757D&height=120&section=footer"/>
