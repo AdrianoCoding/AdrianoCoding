@@ -1,14 +1,62 @@
-# I'm Adriano J.
-    🖥️ student of programing 
-    😄 Pronouns: He/Him
-<center>
-<img src="https://img.shields.io/static/v1?label=Overview&message=SudoShift&color=f8efd4&style=for-the-badge&logo=GitHub">
-🖥/py: Back-end/ programmer 👨‍💻 / Student
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0E384&height=120&section=header"/>
 
-<p align="center" color="red"><br><br>
-Humanitatis virus ignorantiae habet
-</p>  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0E384&size=38&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Adriano+J%C3%BAnior!;Transformo+ideias+em+solu%C3%A7%C3%B5es+digitais;Exploro+tecnologias+para+criar+o+futuro)](https://git.io/typing-svg)
 
-</p>
-<hr>
-</center>
+## Olá! Prazer, Adriano Júnior! 👋
+
+Seja Bem-vindo ao meu perfil! 😄
+- 💻 Estudante de Desenvolvimento Full Stack.
+- 👨🏽‍💻 Freelancer - Construção de sites e aplicações web.
+- 🔭 Explorando tecnologias como Python, Telegram API, ssh.
+- 🎓 Atualmente, estou buscando conhecimento por conta própria, além de estar matriculado na Cubos Academy.
+- [Meu portfólio](Seu link aqui)
+- [LinkedIn](Seu link aqui)
+- 📫 E-mail: addrianojr@email.com
+
+<div style="display: inline_block">
+
+## Linguagens mais utilizadas
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
+
+## Ferramentas
+<div style="display: inline-block">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
+
+</div></br>
+
+## Contato
+<div>
+  <a href = "https://api.whatsapp.com/send?phone=5581996474210&text=Oi!%20Encontrei%20seu%20n%C3%BAmero%20no%20WhatsApp%20atrav%C3%A9s%20do%20seu%20perfil%20no%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <!--<a href = "Seu link aqui"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="Seu link aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
+</div></br>
+
+<!-- Seção de Estatísticas do GitHub -->
+<!-- Certifique-se de alterar os links dos seus perfis -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudoshift&show_icons=true&count_private=true&hide_border=true&title_color=A0E384&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Adriano Júnior github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoshift&layout=compact&hide_border=true&title_color=A0E384&text_color=ff91a4&bg_color=0d1117"/>              
+</p></br>
+
+<!-- Troféus GitHub -->
+<!-- Troque 'seu_usuario' pelo seu nome de usuário do GitHub -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudoshift&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p></br>
+
+<!-- Gráfico de atividade do GitHub -->
+<!-- Troque 'seu_usuario' pelo seu nome de usuário do GitHub -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudoshift&bg_color=0d1117&color=A0E384&line=ff9494&point=A0E384&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+<br><p align="centre"><b>Contador de visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/sudoshift/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0E384&height=120&section=footer"/>
