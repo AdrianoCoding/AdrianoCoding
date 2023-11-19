@@ -8,7 +8,7 @@ Seja Bem-vindo ao meu perfil! 😄
 - 💻 Estudante de Desenvolvimento Full Stack.
 - 👨🏽‍💻 Freelancer - Construção de sites e aplicações web.
 - 🔭 Explorando tecnologias como Python, Telegram API, ssh.
-- 🎓 Atualmente, estou buscando conhecimento por conta própria, além de estar matriculado na Cubos Academy.
+- 🎓 Atualmente, estou buscando conhecimento por conta própria.
 - 📫 E-mail: addrianojr@email.com
 
 <div style="display: inline_block">
