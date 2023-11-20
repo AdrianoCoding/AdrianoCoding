@@ -40,7 +40,7 @@ Seja Bem-vindo ao meu perfil! 😄
 </a>
 
 <a href="https://t.me/addrianojr/" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-E4405F?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-1c93e3?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
 </div></br>
 
 <p align="center">
