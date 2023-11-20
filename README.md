@@ -38,10 +38,10 @@ Seja Bem-vindo ao meu perfil! 😄
 <a href="https://twitter.com/NeuronNix" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
-</div></br>
 
-<!-- Seção de Estatísticas do GitHub -->
-<!-- Certifique-se de alterar os links dos seus perfis -->
+<a href="https://t.me/addrianojr/" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-E4405F?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
+</div></br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeuronNix&show_icons=true&count_private=true&hide_border=true&title_color=6C757D&icon_color=6C757D&text_color=6C757D&bg_color=0d1117" alt="Adriano Júnior github stats"/>
