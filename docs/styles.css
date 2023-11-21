@@ -18,10 +18,11 @@
 }
 
 .messtart img {
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
     display: block;
     margin: 0 auto;
+    border-radius: 100px;
 }
 
 .github-icon{
@@ -33,4 +34,11 @@
 .material-symbols-outlined{
     color: rgb(0, 132, 255);
     padding-left: 5px;
+}
+
+.button-social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10px;
 }
