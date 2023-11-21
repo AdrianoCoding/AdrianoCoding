@@ -13,8 +13,9 @@
 }
 
 .messtart {
-    margin-top: 30px;
-    text-align: center; /* Alinha o texto centralmente */
+    margin-top: 20px;
+    text-align: center; 
+    padding: 15px;
 }
 
 .messtart img {
