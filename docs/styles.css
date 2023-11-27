@@ -68,8 +68,13 @@ iframe {
     border: none; /* Remove a borda padrão do iframe, se houver */
     border-radius: 20px; /* Adiciona borda arredondada */
     box-shadow: 0 0 10px rgba(0, 132, 255, 0.5); /* Adiciona uma sombra ao redor do iframe */
+    margin-top:40px;
+    padding-top: 40px;
 }
 
+hr{
+    margin-top: 30px;
+}
 
 @media screen and (max-width: 768px) {
     .button-social img {
