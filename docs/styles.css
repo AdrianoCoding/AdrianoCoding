@@ -60,14 +60,13 @@ box-shadow: rgb(0, 132, 255) 0px 0px 10px 10px;
 
 /* Estilos para o iframe */
 iframe {
-    width: 80%; /* Define a largura do iframe */
-    max-width: 100%; /* Garante que não ultrapasse a largura máxima do contêiner pai */
-    height: auto; /* Altura automática com base no conteúdo */
-    display: block; /* Faz com que o iframe seja exibido como bloco */
-    margin: 0 auto; /* Centraliza horizontalmente */
-    border: none; /* Remove a borda padrão do iframe, se houver */
-    border-radius: 20px; /* Adiciona borda arredondada */
-    box-shadow: 0 0 10px rgba(0, 132, 255, 0.5); /* Adiciona uma sombra ao redor do iframe */
+    width: 80%;
+    max-width: 100%; 
+    height: auto;
+    margin: 0 auto; 
+    border: none; 
+    border-radius: 20px; 
+    box-shadow: 0 0 10px rgba(0, 132, 255, 0.5);
     margin-top:40px;
     padding-top: 40px;
 }
@@ -85,3 +84,23 @@ hr{
         
     }
 }
+
+    iframe {
+        width: 100%;
+        max-width: 100%; 
+        height: auto;
+        margin: 0 auto; 
+        border: none; 
+        border-radius: 20px; 
+        box-shadow: 0 0 10px rgba(0, 132, 255, 0.5);
+        margin-top:20px;
+        padding-top: 20px;
+    }
+
+    .messtart img {
+        max-width: 90%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        border-radius: 30px;
+    }
