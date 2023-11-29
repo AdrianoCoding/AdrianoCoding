@@ -47,15 +47,7 @@ box-shadow: rgb(0, 132, 255) 0px 0px 10px 10px;
     justify-content: center;
     align-items: center;
     padding-left: 10px;
-    width: 100%;
-}
-
-
-.button-social img {
-    width: 290%; 
-    height: auto; 
-    margin: 20px;
-    
+    width: 30%;
 }
 
 /* Estilos para o iframe */
@@ -78,8 +70,8 @@ hr{
 
 @media screen and (max-width: 768px) {
     .button-social img {
-        width: 66px; 
-        max-width: 66px;
+        width: 80%; 
+        max-width: 80%;
         height: auto;
         margin: 1px; 
         
