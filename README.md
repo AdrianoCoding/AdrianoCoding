@@ -35,32 +35,32 @@ Seja Bem-vindo ao meu perfil! 😄
   <a href="https://www.threads.net/@juniortalking" target="_blank">
   <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="threads">
   </a>
-<a href="https://twitter.com/NeuronNix" target="_blank">
+<a href="https://twitter.com/AdrianoCoding" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
 
-<a href="https://t.me/addrianojr/" target="_blank">
+<a href="https://t.me/AdrianoCoding" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-1c93e3?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
 </div></br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeuronNix&show_icons=true&count_private=true&hide_border=true&title_color=6C757D&icon_color=6C757D&text_color=6C757D&bg_color=0d1117" alt="Adriano Júnior github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuronNix&layout=compact&hide_border=true&title_color=6C757D&text_color=6C757D&bg_color=0d1117"/>              
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrianoCoding&show_icons=true&count_private=true&hide_border=true&title_color=6C757D&icon_color=6C757D&text_color=6C757D&bg_color=0d1117" alt="Adriano Júnior github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoCoding&layout=compact&hide_border=true&title_color=6C757D&text_color=6C757D&bg_color=0d1117"/>              
 </p></br>
 
 <!-- Troféus GitHub -->
 <!-- Troque 'seu_usuario' pelo seu nome de usuário do GitHub -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NeuronNix&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdrianoCoding&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p></br>
 
 <!-- Gráfico de atividade do GitHub -->
 <!-- Troque 'seu_usuario' pelo seu nome de usuário do GitHub -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NeuronNix&bg_color=0d1117&color=6C757D&line=6C757D&point=6C757D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdrianoCoding&bg_color=0d1117&color=6C757D&line=6C757D&point=6C757D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <br><p align="centre"><b>Contador de visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/NeuronNix/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/AdrianoCoding/count.svg" /></p> 
 <br>
 </div>
 
