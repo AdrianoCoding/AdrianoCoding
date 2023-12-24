@@ -7,7 +7,7 @@
 Seja Bem-vindo ao meu perfil! 😄
 - 💻 Estudante de Desenvolvimento Full Stack.
 - 👨🏽‍💻 Freelancer - Construção de sites e aplicações web.
-- 🔭 Explorando tecnologias como Python, Telegram API, ssh.
+- 🔭 Explorando tecnologias como Python, API, ssh.
 - 🎓 Atualmente, estou buscando conhecimento por conta própria.
 - 📫 E-mail: addrianojr@gmail.com
 
@@ -38,9 +38,6 @@ Seja Bem-vindo ao meu perfil! 😄
 <a href="https://twitter.com/AdrianoCoding" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
-
-<a href="https://t.me/AdrianoCoding" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-1c93e3?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
 </div></br>
 
 <p align="center">
