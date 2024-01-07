@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@1,300&display=swap');
 
 * {
-    background-color: #000000;
+    background-color: #2b3435;
     color: aliceblue;
     font-family: 'Source Code Pro', monospace;
+}
+
+strong{
+    color: #ff0000;
 }
 
 .container {
