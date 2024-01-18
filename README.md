@@ -1,7 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=38&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Adriano+J%C3%BAnior!;Transformo+ideias+em+solu%C3%A7%C3%B5es+digitais;Exploro+tecnologias+para+criar+o+futuro)](https://git.io/typing-svg)
-
 ## Olá! Prazer, Adriano Júnior! 👋
 
 Seja Bem-vindo ao meu perfil! 😄
@@ -60,5 +56,3 @@ Seja Bem-vindo ao meu perfil! 😄
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/AdrianoCoding/count.svg" /></p> 
 <br>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
