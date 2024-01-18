@@ -25,16 +25,12 @@ Seja Bem-vindo ao meu perfil! 😄
 ## Contato
 <div>
   <a href = "https://api.whatsapp.com/send?phone=5581996474210&text=Oi!%20Encontrei%20seu%20n%C3%BAmero%20no%20WhatsApp%20atrav%C3%A9s%20do%20seu%20perfil%20no%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/juniortalking/" target="_blank">
+  <a href="https://www.instagram.com/juniordiary/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-  <a href="https://www.threads.net/@juniortalking" target="_blank">
-  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="threads">
-  </a>
-<a href="https://twitter.com/AdrianoCoding" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-</div></br>
+
+</div>
+</br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdrianoCoding&show_icons=true&count_private=true&hide_border=true&title_color=6C757D&icon_color=6C757D&text_color=6C757D&bg_color=0d1117" alt="Adriano Júnior github stats"/>
