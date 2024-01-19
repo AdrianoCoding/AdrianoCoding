@@ -5,7 +5,7 @@ Seja Bem-vindo ao meu perfil! 😄
 - 👨🏽‍💻 Freelancer - Construção de sites e aplicações web.
 - 🔭 Explorando tecnologias como Python, API, ssh.
 - 🎓 Atualmente, estou buscando conhecimento por conta própria.
-- 📫 E-mail: addrianojr@gmail.com
+
 
 <div style="display: inline_block">
 
