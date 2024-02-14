@@ -9,11 +9,15 @@ Seja Bem-vindo ao meu perfil! 😄
 
 <div style="display: inline_block">
 
-## Linguagens mais utilizadas
+## Tecnologias mais utilizadas
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
+<img src="https://img.shields.io/badge/LINUX-f7b30b?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
+<img src="https://img.shields.io/badge/debian-d81258?style=for-the-badge&logo=debian&logoColor=1f0809" alt="debian">
+
+
 
 ## Ferramentas
 <div style="display: inline-block">
