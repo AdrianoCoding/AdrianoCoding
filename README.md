@@ -25,6 +25,7 @@ Seja Bem-vindo ao meu perfil! 😄
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
 <img src="https://img.shields.io/badge/FileZilla-b80000?style=for-the-badge&logo=FileZilla&logoColor=white" alt="fillezila">
+<img src="https://img.shields.io/badge/GNU/LINUX-557f90?style=for-the-badge&logo=gnu&logoColor=white" alt="gnu/linux">
 
 </div></br>
 
