@@ -28,14 +28,6 @@ Seja Bem-vindo ao meu perfil! 😄
 <img src="https://img.shields.io/badge/GNU/LINUX-557f90?style=for-the-badge&logo=gnu&logoColor=white" alt="gnu/linux">
 
 </div></br>
-
-## Contato
-<div>
-  <a href = "https://api.whatsapp.com/send?phone=5581996474210&text=Oi!%20Encontrei%20seu%20n%C3%BAmero%20no%20WhatsApp%20atrav%C3%A9s%20do%20seu%20perfil%20no%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/juniordiary/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
 </div>
 </br>
 
