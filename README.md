@@ -46,8 +46,3 @@ Seja Bem-vindo ao meu perfil! 😄
 <!-- Troque 'seu_usuario' pelo seu nome de usuário do GitHub -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdrianoCoding&bg_color=0d1117&color=6C757D&line=6C757D&point=6C757D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-<br><p align="centre"><b>Contador de visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/AdrianoCoding/count.svg" /></p> 
-<br>
-</div>
